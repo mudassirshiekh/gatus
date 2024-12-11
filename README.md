@@ -157,7 +157,7 @@ The main features of Gatus are:
 
 
 ## Usage
-
+## BY Mudassir Alam
 <details>
   <summary><b>Quick start</b></summary>
 
